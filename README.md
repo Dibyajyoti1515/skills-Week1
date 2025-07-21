@@ -44,8 +44,7 @@ This Node.js and Express-based server allows users to create, view, and delete t
 ### Installation
 
 ```bash
-git clone https://github.com/Dibyajyoti1515/skills-.git
-cd skills-/week1
+git clone https://github.com/Dibyajyoti1515/skills-Week1.git
 npm install
 ```
 
